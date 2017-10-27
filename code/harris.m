@@ -35,7 +35,9 @@
 %
 % March 2002
 
-% code provided by course instructors
+% Credits - code provided by course instructors
+% Instructor: Kevin R. Keane
+% TAs: Radhakrishna Dasari, Yuhao Du, Niyazi Sorkunlu
 
 function [cim, r, c] = harris(im, sigma, thresh, radius, disp)
     
