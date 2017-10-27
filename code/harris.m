@@ -35,6 +35,8 @@
 %
 % March 2002
 
+% code provided by course instructors
+
 function [cim, r, c] = harris(im, sigma, thresh, radius, disp)
     
     error(nargchk(2,5,nargin));

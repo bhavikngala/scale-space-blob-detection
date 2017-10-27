@@ -7,6 +7,8 @@ function show_all_circles(I, cx, cy, rad, color, ln_wid)
 %%        to be displayed (red by default)
 %% ln_wid: line width of circles (optional, 1.5 by default
 
+% code provided by course instructor
+
 if nargin < 5
     color = 'r';
 end
